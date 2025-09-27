@@ -1,3 +1,4 @@
+git remote set-url origin https://github.com/denilkurian/Time-store.git
 import React, { useState, useMemo, useEffect } from 'react';
 import Heading from '../../components/Heading/Heading';
 import { createMRTColumnHelper, MRT_Row } from 'material-react-table';
