@@ -1,0 +1,34 @@
+node_modules/
+
+<<<<<<< HEAD
+.vite/
+=======
+# Vite generated files
+.vite/
+
+>>>>>>> cd62f30d2573f4d8576c5be6ac8f7c1485944948
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.env
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+ 
+ 
